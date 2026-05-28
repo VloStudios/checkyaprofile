@@ -1,3 +1,7 @@
+# Built with GitHub API.
+
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
 # Info:
 
 A simple python script that shows you stats about your GitHub profile.
