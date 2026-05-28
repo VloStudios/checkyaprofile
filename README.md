@@ -9,9 +9,9 @@ A simple python script that shows you stats about your GitHub profile.
 
 # Usage:
 
-1. Clone the repo using the command ``` git clone https://github.com/VloStudios/checkyaprofile ```
+1. Clone the repo using the command ``` git clone https://github.com/VloStudios/gh-tracker ```
 
-2. ``` cd ``` into the directory with ``` cd checkyaprofile ```
+2. ``` cd ``` into the directory with ``` cd gh-tracker ```
 
 3. Do ``` pip install -r requirements.txt ```
 
